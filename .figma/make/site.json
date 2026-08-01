@@ -1,4 +1,5 @@
 {
+  "name": "Land Compensation Management System",
   "description": "Streamlines land compensation processes by managing claims, approvals, and payments efficiently for government agencies and landowners.",
   "robots": {
     "index": false
